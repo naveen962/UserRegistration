@@ -1,0 +1,14 @@
+C:\Users\INDIA\source\repos\User_Regex_UC12\User_Regex_UC12\bin\Debug\netcoreapp3.1\User_Regex_UC12.exe
+C:\Users\INDIA\source\repos\User_Regex_UC12\User_Regex_UC12\bin\Debug\netcoreapp3.1\User_Regex_UC12.deps.json
+C:\Users\INDIA\source\repos\User_Regex_UC12\User_Regex_UC12\bin\Debug\netcoreapp3.1\User_Regex_UC12.runtimeconfig.json
+C:\Users\INDIA\source\repos\User_Regex_UC12\User_Regex_UC12\bin\Debug\netcoreapp3.1\User_Regex_UC12.runtimeconfig.dev.json
+C:\Users\INDIA\source\repos\User_Regex_UC12\User_Regex_UC12\bin\Debug\netcoreapp3.1\User_Regex_UC12.dll
+C:\Users\INDIA\source\repos\User_Regex_UC12\User_Regex_UC12\bin\Debug\netcoreapp3.1\User_Regex_UC12.pdb
+C:\Users\INDIA\source\repos\User_Regex_UC12\User_Regex_UC12\obj\Debug\netcoreapp3.1\User_Regex_UC12.csproj.AssemblyReference.cache
+C:\Users\INDIA\source\repos\User_Regex_UC12\User_Regex_UC12\obj\Debug\netcoreapp3.1\User_Regex_UC12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INDIA\source\repos\User_Regex_UC12\User_Regex_UC12\obj\Debug\netcoreapp3.1\User_Regex_UC12.AssemblyInfoInputs.cache
+C:\Users\INDIA\source\repos\User_Regex_UC12\User_Regex_UC12\obj\Debug\netcoreapp3.1\User_Regex_UC12.AssemblyInfo.cs
+C:\Users\INDIA\source\repos\User_Regex_UC12\User_Regex_UC12\obj\Debug\netcoreapp3.1\User_Regex_UC12.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\repos\User_Regex_UC12\User_Regex_UC12\obj\Debug\netcoreapp3.1\User_Regex_UC12.dll
+C:\Users\INDIA\source\repos\User_Regex_UC12\User_Regex_UC12\obj\Debug\netcoreapp3.1\User_Regex_UC12.pdb
+C:\Users\INDIA\source\repos\User_Regex_UC12\User_Regex_UC12\obj\Debug\netcoreapp3.1\User_Regex_UC12.genruntimeconfig.cache
